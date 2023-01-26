@@ -54,6 +54,7 @@ function tienePropiedad (objeto, propiedad) {
   // "propiedad" es un string
   // De lo contrario, devuelve "false"
   // Tu código:
+
 }
 
 function verificarPassword (usuario, password) {
